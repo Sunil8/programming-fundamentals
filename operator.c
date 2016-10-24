@@ -2,7 +2,7 @@
 Student Name= Sunil Giri 
 Subject=Programming Fundamentals 
 Roll No.=
-Program=
+Program=use of operators.
 Lab No.=08
 Date=18th oct,2016
 */
