@@ -3,7 +3,7 @@ Student Name= Sunil Giri
 Subject=Programming Fundamentals 
 Roll No.=
 Program=
-Lab No.=08
+Lab No.=07
 BCS Sem.=1st
 Date=24 oct,2016
 */
