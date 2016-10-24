@@ -24,7 +24,7 @@ int main(){
 	if(dis>=0){
 		root1=(-b+dis)/(2*a);
 		root2=(-b-dis)/(2*a);
-		printf("roots of given quad. equation:%f %f\n",root1,root2);
+		printf("roots of given quad. equation:%.2f %.2f\n",root1,root2);
 	}
 	else{
 		printf("Root is Imaginary.\n");
