@@ -25,30 +25,8 @@ int main(){
 	
 	printf("Average of %d,%d,%d=%d\n",n1,n2,n3,(n1+n2+n3)/3);
 	
-	if(n1>=n2 && n1>=n3)
-	{
-		printf("%d is largest.\n",n1);
-	}
-	else if(n2>=n1 && n2>=n3)
-	{
-		printf("%d is largest.\n",n2);
-	}
-	else
-	{
-		printf("%d is largest.\n",n3);
-	}
-	if(n1<=n2 && n1<=n3)
-	{
-		printf("%d is smallest.\n",n1);
-	}
-	else if(n2<=n1 && n2<=n3)
-	{
-		printf("%d is smallest.\n",n2);
-	}
-	else
-	{
-		printf("%c is smallest.\n",n3);
-	}
+	(n1>=n2 && n1>=n3)? printf("%d is largest.\n",n1):(n2>=n1 && n2>=n3)? printf("%d is largest.\n",n2):printf("%d is largest.\n",n3);
+	(n1<=n2 && n1<=n3)? printf("%d is smallest.\n",n1):(n2<=n1 && n2<=n3)? printf("%d is smallest.\n",n2):printf("%d is smallest.\n",n3);
 	//getch();
 	return 0;
 }
