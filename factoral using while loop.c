@@ -2,7 +2,7 @@
 Student Name=Sunil Giri
 Subject=Programming Fundamentals 
 Roll No.=
-Program=
+Program=to calculate factorial using while loop.
 Lab No.=09
 BCS Sem.=1st
 Date=26 oct,2016
