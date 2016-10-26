@@ -14,7 +14,7 @@ Date=26 oct,2016
 int main(){
 	int n,fact,a;
 	g:
-	printf("Enter Number to calculate factorialo:\n");
+	printf("Enter Number to calculate factorial:\n");
 	scanf("%d",&n);
 	a=1;
 	fact=1;
