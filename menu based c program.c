@@ -1,7 +1,7 @@
 /*Student Name=Sunil Giri
 Subject=Programming Fundamentals 
 Roll No.=
-Program=
+Program=menu based c program using switch case.
 Lab No.=13
 BCS Sem.=1st
 Date=10 nov,2016
